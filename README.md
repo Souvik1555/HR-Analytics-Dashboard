@@ -1,6 +1,5 @@
-# HR-Analytics-Dashboard
-## HR Analytics Dashboard using Power BI
 # HR Analytics Dashboard – Attrition Analysis
+## HR Analytics Dashboard using Power BI
 
 ## 📊 Project Overview
 This project analyzes employee attrition using Power BI to identify key factors affecting employee turnover.
